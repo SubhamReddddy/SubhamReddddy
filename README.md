@@ -35,5 +35,3 @@
 
 ---
 
-⭐ **GitHub Profile Setup Complete!**  
-Now, start pushing your projects and contributing to open-source! 🚀
