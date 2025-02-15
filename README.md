@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=36BCF7&center=true&width=550&lines=Hi%2C+I'm+Subham+Reddy!;MERN+Stack+Developer;Building+Scalable+and+Efficient+Web+Apps!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=550&lines=Hi%2C+I'm+Subham+Reddy!;MERN+Stack+Developer;Building+Scalable+and+Efficient+Web+Apps!" />
 </p>
 
 ---
@@ -42,9 +42,13 @@ A task management application with **JWT authentication and CRUD functionality**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhamReddddy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamReddddy&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamReddddy&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/SubhamReddddy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhamReddddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamReddddy&theme=tokyonight"/>
+  </a>
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamReddddy&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
