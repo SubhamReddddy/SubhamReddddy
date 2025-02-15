@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 🔹 **MERN Stack Developer** | Passionate about full-stack development & building user-friendly applications.  
-🔹 Currently pursuing **Master of Computer Application** at *Gandhi Institute for Technology, Bhubaneswar*.  
+🔹 I completed my **Master of Computer Application** at *Gandhi Institute for Technology, Bhubaneswar, in 2024*.  
 🔹 I love **problem-solving**, working with **React, Node.js, MongoDB**, and exploring new technologies.  
 
 📫 **Reach me at:**  
