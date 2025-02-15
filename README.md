@@ -1,7 +1,7 @@
 # 🚀 Welcome to My GitHub Profile!  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&width=435&lines=Hi%2C+I'm+Subham+Reddy!;MERN+Stack+Developer; Passionate+about+Full-Stack+Development!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&width=435&lines=Hi%2C+I'm+Subham+Reddy!;MERN+Stack+Developer;Passionate+about+Full-Stack+Development!" />
 </p>
 
 ## 👨‍💻 About Me
