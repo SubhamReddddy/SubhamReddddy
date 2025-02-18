@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=36BCF7&center=true&width=550&lines=Hi%2C+I'm+Subham+Reddy!;MERN+Stack+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=36BCF7&center=true&width=550&lines=Hi%2C+I'm+Subham+Reddy!;MERN+Stack+Developer;" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 🔹 I completed my **Master of Computer Application** at *Gandhi Institute for Technology, Bhubaneswar, in 2024*.  
 🔹 I love **problem-solving**, working with **React, Node.js, MongoDB**, and exploring new technologies.  
 
-📫 **Reach me at:**  
+👥 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SubhamReddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subham-reddy-89108225a/)  
 [![Email](https://img.shields.io/badge/Email-subhamreddy121%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:subhamreddy121@gmail.com)
 
@@ -28,7 +28,7 @@
 
 ## 🔥 Featured Projects
 
-### 🛒 [E-Commerce Website](https://amazon-frontend-red.vercel.app/)
+### 🛍️ [E-Commerce Website](https://amazon-frontend-red.vercel.app/)
 A full-stack e-commerce platform with authentication, product management, and Stripe payments.
 
 ### 🌍 [Language Learning Platform](https://language-learning-platform-topaz.vercel.app/)
@@ -66,7 +66,7 @@ A task management application with **JWT authentication and CRUD functionality**
 ## 🎯 Current Focus
 
 🌱 **Learning:** TypeScript, Next.js, Cloud Deployment  
-💼 **Looking for:** Full-stack development opportunities  
+🎒 **Looking for:** Full-stack development opportunities  
 ⚡ **Fun Fact:** I love exploring new technologies & contributing to open-source projects!
 
 ---
