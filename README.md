@@ -44,7 +44,7 @@ A task management application with **JWT authentication and CRUD functionality**
 <p align="center">
   <a href="https://github.com/SubhamReddddy">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhamReddddy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=SubhamReddddy&theme=tokyonight" alt="GitHub Streak"/>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=SubhamReddddy&theme=tokyonight" alt="GitHub Streak"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamReddddy&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </a>
 </p>
