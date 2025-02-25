@@ -15,6 +15,7 @@
 📫 **Reach me at:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SubhamReddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subham-reddy-89108225a/)  
 [![Email](https://img.shields.io/badge/Email-subhamreddy121%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:subhamreddy121@gmail.com)
+[![portfolio](https://img.shields.io/badge/Email-subhamreddy121%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:subhamreddy121@gmail.com)
 
 ---
 
