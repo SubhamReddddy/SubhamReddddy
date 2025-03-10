@@ -54,7 +54,7 @@ A task management application with **JWT authentication and CRUD functionality**
 
 ## 🚀 Work Experience
 
-### 🌟 **Full-Stack Web Development Intern** | WebBocket Software Pvt. Ltd. *(Feb 2024 - July 2024)*  
+### 🌟 **Full-Stack Web Development Intern** | WebBocket Software Pvt. Ltd. *(Feb 2024 - Mar 2024)*  
 🔹 Built and maintained MERN stack applications.  
 🔹 Designed and implemented RESTful APIs.  
 🔹 Integrated third-party APIs & optimized database queries.
